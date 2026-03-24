@@ -1,7 +1,7 @@
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
+import Background from './components/Background'
 import Projects from './components/Projects'
-import Skills from './components/Skills'
 import Footer from './components/Footer'
 
 function App() {
@@ -9,8 +9,8 @@ function App() {
     <>
       <Navbar />
       <Hero />
+      <Background />
       <Projects />
-      <Skills />
       <Footer />
     </>
   )

@@ -1,23 +1,30 @@
 const projects = [
   {
-    title: 'Portfolio Website',
+    title: 'ML-Powered Calendar Scheduler',
     description:
-      'A responsive personal portfolio built with React and Vite, deployed via GitHub Pages.',
-    stack: ['React', 'TypeScript', 'Vite'],
-    link: 'https://github.com/ethanhapurne/Portfolio-Website',
-  },
-  {
-    title: 'Task Management App',
-    description:
-      'A productivity app with filtering, local persistence, and accessible keyboard navigation.',
-    stack: ['React', 'Hooks', 'CSS'],
+      'Built a smart calendar that uses machine learning to predict user scheduling patterns and organize events more efficiently.',
+    stack: ['Python', 'Machine Learning', 'HTML'],
     link: 'https://github.com/ethanhapurne',
   },
   {
-    title: 'Data Dashboard',
+    title: '2D Fighting Game',
     description:
-      'An interactive dashboard that visualizes key metrics and trends from API-driven data.',
-    stack: ['TypeScript', 'Charts', 'REST API'],
+      'Developed a multiplayer fighting game inspired by Super Smash Bros with custom characters, combat systems, and a polished interface.',
+    stack: ['Python', 'Pygame'],
+    link: 'https://github.com/ethanhapurne',
+  },
+  {
+    title: 'Lost & Found Social Media Platform',
+    description:
+      'Engineered a Java-based social platform with authentication, messaging, moderation tools, and Firebase-backed real-time CRUD operations.',
+    stack: ['Java', 'Firebase', 'REST API'],
+    link: 'https://github.com/ethanhapurne',
+  },
+  {
+    title: 'Columns-Style Puzzle Game',
+    description:
+      'Created a retro puzzle game in MIPS assembly featuring falling-piece logic, match detection, scoring, and low-level memory management.',
+    stack: ['MIPS Assembly'],
     link: 'https://github.com/ethanhapurne',
   },
 ]

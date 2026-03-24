@@ -3,14 +3,14 @@ function Navbar() {
     <header className="site-header">
       <nav className="container nav">
         <a href="#home" className="brand">
-          Ethan Hapurne
+          My Portfolio
         </a>
         <ul className="nav-links">
           <li>
-            <a href="#projects">Projects</a>
+            <a href="#background">My Background</a>
           </li>
           <li>
-            <a href="#skills">Skills</a>
+            <a href="#projects">Projects</a>
           </li>
           <li>
             <a href="#contact">Contact</a>

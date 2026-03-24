@@ -1,13 +1,11 @@
 const skills = [
-  'React',
   'TypeScript',
-  'JavaScript',
-  'HTML',
-  'CSS',
-  'Tailwind CSS',
-  'Node.js',
+  'React',
+  'Python',
+  'SQL',
+  'Java',
   'Git',
-  'GitHub Actions',
+  'C',
 ]
 
 function Skills() {
