@@ -1,5 +1,12 @@
 const projects = [
   {
+    title: 'LyricstoSlides',
+    description:
+      'Built a Python CLI that converts songbook PDFs into projector-ready PowerPoint presentations, making worship and event slide preparation much faster.',
+    stack: ['Python', 'CLI', 'PDF Processing', 'PowerPoint'],
+    link: 'https://github.com/ethanhapurne/LyricstoSlides',
+  },
+  {
     title: 'ML-Powered Calendar Scheduler',
     description:
       'Built a smart calendar that uses machine learning to predict user scheduling patterns and organize events more efficiently.',
